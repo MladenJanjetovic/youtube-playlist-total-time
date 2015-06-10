@@ -30,7 +30,7 @@ sum_h = Math.floor(sum_m/60);
 sum_m = sum_m%60 + Math.floor(sum_s/60);
 sum_s = sum_s%60;
 
-alert(sum_h + " hours, " + sum_m + " minutes, " + sum_s + "seconds");
+alert(sum_h + " hours, " + sum_m + " minutes, " + sum_s + " seconds");
 ```
 
 Enjoy this until Youtube change it's markup, or adds this functionality :)
